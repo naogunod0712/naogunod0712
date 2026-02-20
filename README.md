@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @naogunod0712
-- 👀 I’m interested in computer science, tech with my main focus in IT
-- 🌱 I’m currently learning how to use Powershell scripting and understand more about network
+- 👀 I’m interested in Devsecops, DevOps and all things automation
+- 🌱 I’m currently learning how to top 1% in my field
+  
 - 📫 You can reach me at my email adeoluwa07@gmail.com
 
 <!---
