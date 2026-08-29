@@ -1,7 +1,6 @@
 - 👋 Hi there, human or bot, I’m @naogunod0712
-- 👀 I am a cybersecurity professional with a focus on DevSecOps, DevOps, Product Security and all things automation
-- 🌱 I’m currently learning how to be in the top 1% in my field and also how to create tools that would help the developer experience with security
-- 🧵 Aside from that, welcome to my world, and always happy to contribute to projects 
+- 👀 I am a cybersecurity professional with a focus on DevSecOps, Supply Chain Security, Product Security and all things automation
+- 🌱 I’m currently learning how to be in the top 1% in my field and also how to create tools that would help the developer experience with security with my Github
   
 - 📫 You can reach me at my email: nathaneal@nogconsults.ca
 
